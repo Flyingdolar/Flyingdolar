@@ -6,8 +6,8 @@ A graduate student in NTNU. Study in Design, Computer Science, AI
 * 🌍  I'm based in Taiwan
 * ✉️  You can contact me at [flyingdollar.cheng@gmail.com](mailto:flyingdollar.cheng@gmail.com)
 
-<table>
-  <tr><td width="1000px">
+### Github Status
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Flyingdolar&langs_count=6&title_color=243763&text_color=243763&hide_border=true&locale=en&custom_title=Language"/>
 </p>
@@ -18,12 +18,12 @@ A graduate student in NTNU. Study in Design, Computer Science, AI
   &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Flyingdolar&show_icons=true&count_private=true&title_color=ff6e31&text_color=243763&icon_color=ad8e70&bg_color=ffebb7&custom_title=Details" />
 </p>
-    </td></tr>
-</table>
 
----
+<br/>
 
 ### Skills
+
+<br/>
 
 <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />  </a>
