@@ -1,12 +1,13 @@
 Hi, My name is Flydoco
 ========================
 
-A graduate student in NTNU. Study in Design, Computer Science, AI
+A graduate student in NTNU. Study in `Design`  `Computer Science`  `AI`
 
-* 🌍  I'm based in Taiwan
-* ✉️  You can contact me at [flyingdollar.cheng@gmail.com](mailto:flyingdollar.cheng@gmail.com)
+  * 🌍  I'm based in Taiwan
+  * ✉️  You can contact me at [flyingdollar.cheng@gmail.com](mailto:flyingdollar.cheng@gmail.com)
 
-### Github Status
+Github Status
+---
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Flyingdolar&langs_count=6&title_color=243763&text_color=243763&hide_border=true&locale=en&custom_title=Language"/>
@@ -21,11 +22,13 @@ A graduate student in NTNU. Study in Design, Computer Science, AI
 
 <br/>
 
-### Skills
+Skills
+---
 
 <br/>
 
 <p align="left">
+  &emsp;
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />  </a>
   &emsp;
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -51,6 +54,7 @@ A graduate student in NTNU. Study in Design, Computer Science, AI
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
   <br/>
   <br/>
+  &emsp;
   <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
   &emsp;
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
